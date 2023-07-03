@@ -63,6 +63,25 @@ def do_a_flip():
 #####################
 
 
+## QUESTION
+"""
+以下の要件を満たすコードに書き換えてください。
+<<要件>>
+・収穫できる場合、収穫と藪を植えて、北に移動してください。
+・収穫できない場合、収穫をせずに藪も植えず、北に移動してください。
+"""
+def main():
+	# 無限ループ
+	while True:
+		# 条件分岐
+		if can_harvest():
+			# 収穫できる場合
+			harvest()
+			# Bushを植える
+			plant(Entities.Bush)
+			# 北に移動する
+			move(North)
+
 # Answer
 def main():
 	pass
