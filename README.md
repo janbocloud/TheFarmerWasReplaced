@@ -42,3 +42,12 @@ YouTube & ニコニコ動画で投稿中の実況解説シリーズ「ゲーム�
 - 新しい関数「can_harvest」「move」「plant」
 - [課題出題](https://github.com/janbocloud/TheFarmerWasReplaced/blob/main/part2_assignment.py)
 
+<br>
+
+### Part3
+[YouTube](https://youtu.be/xxUYTdcDyvA) | [ニコニコ動画](https://www.nicovideo.jp/watch/sm42436938)
+- 繰り返し処理「for」
+- 配列
+- range関数(正確にはrange型のコンストラクタ)
+
+
