@@ -55,7 +55,7 @@ YouTube & ニコニコ動画で投稿中の実況解説シリーズ「ゲーム�
 ### Part4
 [YouTube](https://youtu.be/9pQB-6ZokjY) | [ニコニコ動画](https://www.nicovideo.jp/watch/sm42465742)
 
-`★課題に取り組むと電子ギフトプレゼント中!!` [詳しくはコチラ](https://youtu.be/cu0MCoSslDY)
+`★課題に取り組むと電子ギフトプレゼント中!!` [詳しくはコチラ](https://youtube.com/shorts/08JvWMN3ZeU)
 - 新しい関数「get_world_size」「get_pos_x」「get_pos_y」「num_items()」「get_time()」「get_entity_type()」「get_gournd_type()」
 - 演算子
 - デバッグ（ステップ実行、ブレークポイント、print関数）
